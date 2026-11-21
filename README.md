@@ -1,16 +1,15 @@
-## Hi there 👋
+# ¡Hola, soy Elisa! 👋
 
-<!--
-**elisa1223/elisa1223** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Estudiante de 7.º semestre de Ingeniería en Sistemas Computacionales, de México.
 
-Here are some ideas to get you started:
+## Lo que estoy aprendiendo
+- C# y programación con hilos
+- Flutter y Dart
+- Git y GitHub, colaborando en proyectos open source
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Lo que busco
+- Contribuir a proyectos con issues para principiantes (documentación, traducciones y código sencillo)
+- Trabajo remoto en soporte técnico y apoyo administrativo
+
+## Idiomas
+Español (nativo) · Inglés (básico, mejorando)
